@@ -1,0 +1,2 @@
+# Tapper
+"Clicker" type game
